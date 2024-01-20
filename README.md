@@ -1,5 +1,5 @@
 # General description:
-A small project that consists of calibrating a thermocouple type T and then creating a A green house using raspberry pi.
+A small project that consists of calibrating a thermocouple type T and then creating a A green house using Raspberry Pi.
 # 1) Instrumentation:
 In this part, we measured the temperature using a thermocouple type T. we used this data sheet: https://www.thermocoupleinfo.com/pdf/type-t-thermocouple-reference-table.pdf
 # 2) Green house:
